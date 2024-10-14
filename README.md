@@ -2,7 +2,8 @@
 
 This is the first gen of the RestrictionBypasser.
 Try It by copying the contents of Bypass.txt or in releases.
-This tricks the AI LLM to bypas its rules.
+This tricks the AI LLM to bypass its rules.
+Some bots work when you enter it into the textbox input but others do not, so keep that in mind.
 
 For speed, heres the repo url:
 
